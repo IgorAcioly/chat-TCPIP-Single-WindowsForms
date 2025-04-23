@@ -107,6 +107,7 @@ namespace TCPChat2
             }
         }
 
+
         private void backgroundWorker2_DoWork(object sender, System.ComponentModel.DoWorkEventArgs e)
         {
             if (client.Connected)

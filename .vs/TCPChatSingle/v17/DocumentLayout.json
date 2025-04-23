@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2B7C7204-677F-4C86-9EA4-A682A242C537}|TCPChatSIngle.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B7C7204-677F-4C86-9EA4-A682A242C537}|TCPChatSIngle.csproj|c:\\users\\igorg\\onedrive\\documentos\\workspace\\c#\\tcpchatsingle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2B7C7204-677F-4C86-9EA4-A682A242C537}|TCPChatSIngle.csproj|C:\\Users\\igorg\\OneDrive\\Documentos\\Workspace\\C#\\TCPChatSingle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2B7C7204-677F-4C86-9EA4-A682A242C537}|TCPChatSIngle.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\igorg\\OneDrive\\Documentos\\Workspace\\C#\\TCPChatSingle\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAkwK8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T23:19:43.939Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\igorg\\OneDrive\\Documentos\\Workspace\\C#\\TCPChatSingle\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T23:19:30.763Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-04-23T23:19:30.763Z"
             }
           ]
         }
