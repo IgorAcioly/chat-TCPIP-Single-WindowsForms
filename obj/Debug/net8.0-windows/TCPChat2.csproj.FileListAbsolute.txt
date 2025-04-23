@@ -1,0 +1,16 @@
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\bin\Debug\net8.0-windows\TCPChat2.exe
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\bin\Debug\net8.0-windows\TCPChat2.deps.json
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\bin\Debug\net8.0-windows\TCPChat2.runtimeconfig.json
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\bin\Debug\net8.0-windows\TCPChat2.dll
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\bin\Debug\net8.0-windows\TCPChat2.pdb
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\TCPChat2.Form1.resources
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\TCPChat2.csproj.GenerateResource.cache
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\TCPChat2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\TCPChat2.AssemblyInfoInputs.cache
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\TCPChat2.AssemblyInfo.cs
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\TCPChat2.csproj.CoreCompileInputs.cache
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\TCPChat2.dll
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\refint\TCPChat2.dll
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\TCPChat2.pdb
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\TCPChat2.genruntimeconfig.cache
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChat2\obj\Debug\net8.0-windows\ref\TCPChat2.dll
