@@ -14,3 +14,4 @@ C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChatSingle\obj\Debug\net8.0-w
 C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChatSingle\obj\Debug\net8.0-windows\TCPChatSIngle.pdb
 C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChatSingle\obj\Debug\net8.0-windows\TCPChatSIngle.genruntimeconfig.cache
 C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChatSingle\obj\Debug\net8.0-windows\ref\TCPChatSIngle.dll
+C:\Users\igorg\OneDrive\Documentos\Workspace\C#\TCPChatSingle\obj\Debug\net8.0-windows\TCPChatSIngle.sourcelink.json

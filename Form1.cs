@@ -63,7 +63,6 @@ namespace TCPChat2
 
             try
             {
-
                 txtBox_ChatScreen.AppendText("Connected to server\n");
 
                 client.Connect(IpEnd);
@@ -133,7 +132,7 @@ namespace TCPChat2
                 TextToSend = txtBox_Message.Text;
                 backgroundWorker2.RunWorkerAsync();
             }
-            txtBox_Message.Text = "";
+            
         }
 
         private void btnStop_Click(object sender, EventArgs e)
